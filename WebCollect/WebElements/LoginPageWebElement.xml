@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LoginPageWebElement>
+	<Data>
+		<usernametextbox>//input[@id="j_username"]</usernametextbox>
+		<passwordtextbox>//input[@id="j_password"]</passwordtextbox>
+		<loginbutton>//form[@id="lForm"]/button</loginbutton>
+		<logoutbutton>//form[@id="HOME-FORM-ID"]/header/div[4]/div[3]/div/a[2]/i</logoutbutton>
+	</Data>
+</LoginPageWebElement>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Environment>
+	<Test>
+		<browser>Chrome</browser>
+		<url>https://demo-wc.dev.bpopen.capgemini.com/webCollect/FormAuthLogin.jsp</url>
+		<username>prashant.ranjan@WebCollect.net</username>
+		<password>abcd1234</password>
+		<PageLoadTimeOut>40</PageLoadTimeOut>
+		<WebElementTimeOut>40</WebElementTimeOut>
+	</Test>
+</Environment>
