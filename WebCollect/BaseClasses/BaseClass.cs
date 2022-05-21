@@ -28,6 +28,10 @@ namespace WebCollect.BaseClasses
                     ObjectRepository.driver = GetChromeDriver();
                     break;
 
+                case BrowserType.Safari:
+                    ObjectRepository.driver = GetChromeDriver();
+                    break;
+
                 default:
                     throw new NoSuitableDriverFound("No suitable driver found");
             }
